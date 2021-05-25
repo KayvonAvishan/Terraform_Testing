@@ -1,2 +1,2 @@
-# Terraform_Testing
+# Terraform-Testing
 Initial Terraform repo for testing code
